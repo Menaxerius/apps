@@ -23,5 +23,7 @@ You will, however, be able to use all values referenced in the common chart here
 | securityContext.runAsNonRoot | bool | `false` |  |
 | service.main.ports.main.port | int | `2202` |  |
 | service.main.ports.main.targetPort | int | `2202` |  |
+| service.admin.ports.admin.port | int | `2203` |  |
+| service.admin.ports.admin.targetPort | int | `2203` |  |
 
 All Rights Reserved - The TrueCharts Project
