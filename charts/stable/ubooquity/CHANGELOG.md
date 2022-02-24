@@ -1,5 +1,10 @@
 # Changelog<br>
+<a name="ubooquity-0.0.23"></a>
+### [ubooquity-0.0.23] (2022-02-24)
 
+#### Chore
+
+* quick admin ui fix
 
 <a name="ubooquity-0.0.22"></a>
 ### [ubooquity-0.0.22](https://github.com/truecharts/apps/compare/ubooquity-0.0.21...ubooquity-0.0.22) (2022-02-21)
